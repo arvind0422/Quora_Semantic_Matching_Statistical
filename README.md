@@ -10,6 +10,6 @@ Mixture of 2 Multivariate Gaussians to model each class conditional density.
 
 Multivariate Gaussian.
 
-## MLE
+## MAP
 
 Changable priors for Multivariate Gaussian.
