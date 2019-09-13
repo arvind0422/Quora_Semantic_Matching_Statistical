@@ -13,3 +13,6 @@ Multivariate Gaussian.
 ## MAP
 
 Changable priors for Multivariate Gaussian.
+
+## More info
+Data was cleaned and pre-processed to extract relevant features. For additional details, ping arvind0422@gmail.com
